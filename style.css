@@ -36,6 +36,7 @@ a:hover {
   line-height: 24px;
   outline: none;
   vertical-align: middle;
+  padding-right: 15px;
 }
 header {
   display: flex;
@@ -138,4 +139,5 @@ footer {
 .footer-right {
   text-align: right;
   align-self: flex-end;
+  padding-right: 15px;
 }
