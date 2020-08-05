@@ -15,6 +15,3 @@ While Google's home page is fairly simple, this was a good exercise to test posi
 The search bar is not implemented as a true form and does not submit.  It also does not have the clear functionality - no javaScript was implemented in this design exercise.
 
 In addition to minor animation, there is a fair amount of :hover states implemented as well.
-=======
-work in-progress & not completed.
->>>>>>> 7b0e632a7e03e216d7f698e2573adfb0a3768aa6
